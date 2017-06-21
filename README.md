@@ -4,7 +4,7 @@ To view my walk-through of this tutorial, you will need to run the following com
 ```
 conda create -n make-data-amazing python=2
 conda install jupyter pandas
-conda source
+conda source activate make-data-amazing
 ```
 
 Then you will run Jupyter:
